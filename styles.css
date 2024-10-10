@@ -1,0 +1,13 @@
+body{
+    background-color: gray;
+}
+
+h1, form, div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    padding-top: 20px;
+}
